@@ -318,7 +318,7 @@ a:focus {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1px;
-    color: #F7CAC9;
+    color: #FFFFFF;
     background: #343148;
     border-radius: 0;
     transition: .3s;
@@ -526,7 +526,7 @@ a:focus {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1px;
-    color: #F7CAC9;
+    color: #FFFFFF;
     background: #343148;
     border-radius: 0;
     transition: .3s;
@@ -638,7 +638,7 @@ a:focus {
 
 .service .service-item:hover h3,
 .service .service-item.active h3 {
-    color: #F7CAC9;
+    color: #FFFFFF;
 }
 
 .service .service-item p {
@@ -765,7 +765,7 @@ a:focus {
 }
 
 .class .class-wrap:hover .class-teacher a {
-    color: #F7CAC9;
+    color: #FFFFFF;
     background: #343148;
 }
 
@@ -839,7 +839,7 @@ a:focus {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1px;
-    color: #F7CAC9;
+    color: #FFFFFF;
     background: #343148;
     border-radius: 0;
     transition: .3s;
@@ -931,7 +931,7 @@ a:focus {
 }
 
 .price .price-item.featured-item h2 {
-    color: #F7CAC9;
+    color: #FFFFFF;
 }
 
 .price .price-body {
@@ -974,7 +974,7 @@ a:focus {
 
 .price .price-action a:hover,
 .price .price-item.featured-item .price-action a {
-    color: #F7CAC9;
+    color: #FFFFFF;
     background: #343148;
 }
 
@@ -1287,7 +1287,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #F7CAC9;
+    color: #FFFFFF;
     background: #343148;
     font-size: 22px;
     transition: .3s;
